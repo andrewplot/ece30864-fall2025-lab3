@@ -5,3 +5,11 @@ Cons: Can be chaotic and directionless if not implemented correctly
 b: 
 Scrum master is the coach for the development team, focusing on the process and team effectiveness. Product owner is more of a creative role, being the voice of the customer and responsible for defining features and aligning with business goals.
 
+c:
+Sprint Planning: defines work to be completed during upcoming sprint; describes how the team will accomplish it
+
+Daily Scrum: Synchronize activities, create plan for the following day
+
+Sprint Review: Demonstrate completed/incomplete work, gather feedback for future iterations
+
+
