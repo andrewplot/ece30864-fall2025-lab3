@@ -18,5 +18,4 @@ Story: describes a specific user-focused feature
 Task: technical step to complete story
 
 Bug: existing error that needs fixing
-
  
