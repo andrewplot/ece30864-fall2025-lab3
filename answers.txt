@@ -2,4 +2,6 @@ a: Pros of Agile: fast, adaptive, and fosters collaboration
 
 Cons: Can be chaotic and directionless if not implemented correctly
 
+b: 
+Scrum master is the coach for the development team, focusing on the process and team effectiveness. Product owner is more of a creative role, being the voice of the customer and responsible for defining features and aligning with business goals.
 
