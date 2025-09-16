@@ -12,4 +12,11 @@ Daily Scrum: Synchronize activities, create plan for the following day
 
 Sprint Review: Demonstrate completed/incomplete work, gather feedback for future iterations
 
+d: Epic: Large body of work, such as a aspect/functionality of a product
+Story: describes a specific user-focused feature
+
+Task: technical step to complete story
+
+Bug: existing error that needs fixing
+
 
