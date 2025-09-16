@@ -1,0 +1,5 @@
+a: Pros of Agile: fast, adaptive, and fosters collaboration
+
+Cons: Can be chaotic and directionless if not implemented correctly
+
+
